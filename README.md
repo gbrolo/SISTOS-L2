@@ -78,3 +78,4 @@ Sistemas Operativos, S.10 2018 - Laboratorio 2
 ![7](https://github.com/gbrolo/SISTOS-L2/blob/master/img/7.PNG)
 ![8](https://github.com/gbrolo/SISTOS-L2/blob/master/img/8.PNG)
 ![9](https://github.com/gbrolo/SISTOS-L2/blob/master/img/9.PNG)
+![10](https://github.com/gbrolo/SISTOS-L2/blob/master/img/10.PNG)
