@@ -69,12 +69,12 @@ Sistemas Operativos, S.10 2018 - Laboratorio 2
 3. Cuando el archivo de configuracion se cambia, LILO necesita reinstalarse al MBR mientras que GRUB se va directo a su interfaz de linea de comandos.
 
 ### Screenshots
-![1](img/1.png?raw=true "1")
-![2](img/2.png?raw=true "2")
-![3](img/3.png?raw=true "3")
-![4](img/4.png?raw=true "4")
-![5](img/5.png?raw=true "5")
-![6](img/6.png?raw=true "6")
-![7](img/7.png?raw=true "7")
-![8](img/8.png?raw=true "8")
-![9](img/9.png?raw=true "9")
+![1](https://github.com/gbrolo/SISTOS-L2/blob/master/img/1)
+![2](https://github.com/gbrolo/SISTOS-L2/blob/master/img/2)
+![3](https://github.com/gbrolo/SISTOS-L2/blob/master/img/3)
+![4](https://github.com/gbrolo/SISTOS-L2/blob/master/img/4)
+![5](https://github.com/gbrolo/SISTOS-L2/blob/master/img/5)
+![6](https://github.com/gbrolo/SISTOS-L2/blob/master/img/6)
+![7](https://github.com/gbrolo/SISTOS-L2/blob/master/img/7)
+![8](https://github.com/gbrolo/SISTOS-L2/blob/master/img/8)
+![9](https://github.com/gbrolo/SISTOS-L2/blob/master/img/9)
